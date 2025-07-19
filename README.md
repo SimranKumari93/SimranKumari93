@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Simran Kumari! 👋
 
-<!--
-**SimranKumari93/SimranKumari93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I’m passionate about technology, innovation, and creating impactful solutions. Here’s a snapshot of who I am:
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+- **Profession: Software Engineer
+- **Education: Bachelor of Technology- Chemical Engineering
+- **Location: Bihar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Expertise
+- Programming Languages: Python, Java, C++
+- Web Development: HTML, CSS, JavaScript, React, Django
+- Data Science & Analytics: Machine Learning, Data Analysis, Pandas, NumPy
+- Tools & Platforms: Git, Github
+
+## 🌟 Notable Projects
+- [AI-Powered Product Feedback Dashboard from Reddit Data](https://github.com/SimranKumari93/amazon-ai-dashboard): Brief description of what it does and what makes it special.
+- **[ Cryptoverse](https://crypto-verse-sigma.vercel.app/):** Brief description.
+
+## 🚀 What I’m Working On
+- Currently learning: Data Analysis, AI/ML
+- Contributing to open-source
+- Building [AI-Powered Product Feedback Dashboard from Reddit Data]
+
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/simran-kumari-213707208)
+- [Reddit(https://www.reddit.com/user/Former_Association57/)
+- [Email](simrankumaribodhgaya93@gmail.com
+)
+
+## 🗨️ Fun Facts
+- (Add a favorite quote, hobby, or fun fact from your resume!)
+- I love travelling, enjoy painting, and believe in lifelong learning.
