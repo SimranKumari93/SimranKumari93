@@ -28,5 +28,4 @@ Welcome to my GitHub! I’m passionate about technology, innovation, and creatin
 )
 
 ## 🗨️ Fun Facts
-- (Add a favorite quote, hobby, or fun fact from your resume!)
-- I love travelling, enjoy painting, and believe in lifelong learning.
+- I use dark mode so much, I get startled by white screens.
