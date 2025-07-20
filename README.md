@@ -8,7 +8,7 @@ Welcome to my GitHub! I’m passionate about technology, innovation, and creatin
 - **Location: Bihar
 
 ## 🛠️ Skills & Expertise
-- Programming Languages: Python, Java, C++
+- Programming Languages: Python, C++
 - Web Development: HTML, CSS, JavaScript, React, Django
 - Data Science & Analytics: Machine Learning, Data Analysis, Pandas, NumPy
 - Tools & Platforms: Git, Github
@@ -24,7 +24,6 @@ Welcome to my GitHub! I’m passionate about technology, innovation, and creatin
 
 ## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/simran-kumari-213707208)
-- [Reddit(https://www.reddit.com/user/Former_Association57/)
 - [Email](simrankumaribodhgaya93@gmail.com
 )
 
