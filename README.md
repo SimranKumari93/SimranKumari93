@@ -14,7 +14,7 @@ Welcome to my GitHub! I’m passionate about technology, innovation, and creatin
 - Tools & Platforms: Git, Github
 
 ## 🌟 Notable Projects
-- [AI-Powered Product Feedback Dashboard from Reddit Data](https://github.com/SimranKumari93/amazon-ai-dashboard): Brief description of what it does and what makes it special.
+- [AI-Powered Product Feedback Dashboard from Reddit Data](https://github.com/SimranKumari93/amazon-ai-dashboard): This project analyzes public sentiment around major Amazon sales (like Prime Day, Black Friday) using Reddit comments. It scrapes relevant threads, filters Amazon-specific discussions, and uses an LLM to summarize customer feedback, pain points, and pricing sentiment. The goal is to help consumers, sellers, and analysts understand how people perceive Amazon’s sales, what deals excite them, and what issues they face—offering real-time, community-driven market insights.
 - **[ Cryptoverse](https://crypto-verse-sigma.vercel.app/):** Brief description.
 
 ## 🚀 What I’m Working On
