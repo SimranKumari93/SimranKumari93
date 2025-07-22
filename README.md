@@ -10,8 +10,8 @@
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working on: `AI-Powered Product Feedback Dashboard from Reddit Data` 
 - 🌱 I’m currently learning: `Matplotlib`, `Numpy`
-- 💬 Ask me about: `React`, `Redux`, `Django`
-- 📫 Reach me at: `your-email@example.com`
+- 💬 Ask me about: `React`, `Django`
+- 📫 Reach me at: `simrankumaribodhgaya93@gmail.com`
 
 ---
 
@@ -25,6 +25,10 @@
 ### 🛠️ Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-092E20?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-092E20?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-092E20?style=for-the-badge&logo=sciPy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-092E20?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ---
 
@@ -35,7 +39,7 @@
 ### 🧰 Tools & Platforms:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)
+[![Vercel](https://img.shields.io/badge/Vercel-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/simrankumari93s-projects)
 
 ---
 
