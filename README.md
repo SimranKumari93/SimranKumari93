@@ -5,7 +5,7 @@ Welcome to my GitHub! I’m passionate about technology, innovation, and creatin
 ## 👩‍💻 About Me
 - **Profession: Software Engineer
 - **Education: Bachelor of Technology- Chemical Engineering
-- **Location: Bihar
+- **Location: Bangalore
 
 ## 🛠️ Skills & Expertise
 - Programming Languages: Python, C++
