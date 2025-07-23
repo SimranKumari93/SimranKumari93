@@ -35,12 +35,17 @@
 
 ### 🧠 Storaging Things On:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+
 ---
 
 ### 🧰 Tools & Platforms:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 [![Vercel](https://img.shields.io/badge/Vercel-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/simrankumari93s-projects)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
