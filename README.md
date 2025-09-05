@@ -8,8 +8,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🔭 I’m currently working on: `AI-Powered Product Feedback Dashboard from Reddit Data` 
-- 🌱 I’m currently learning: `Matplotlib`, `Numpy`
+- 🌱 I’m currently learning: `Pandas`, `Matplotlib`, `Numpy`
 - 💬 Ask me about: `React`, `Django`
 - 📫 Reach me at: `simrankumaribodhgaya93@gmail.com`
 
@@ -33,7 +32,7 @@
 
 ---
 
-### 🧠 Storaging Things On:
+### 🧠 Storing Things On:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
