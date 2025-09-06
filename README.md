@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🌱 I’m currently learning: `Pandas`, `Matplotlib`, `Numpy`
+- 🌱 I’m currently learning: `Advance Python`
 - 💬 Ask me about: `React`, `Django`
 - 📫 Reach me at: `simrankumaribodhgaya93@gmail.com`
 
