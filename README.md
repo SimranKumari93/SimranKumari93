@@ -1,14 +1,7 @@
 <h1 align="center">Hey 👋, I'm Simran Kumari</h1>
 
-<p align="center">
-  🚀 Passionate about building cool stuff and exploring tech. <br>
-  ☕ One cup tea + VS Code = Happy me.  
-</p>
-
----
-
 ### 👨‍💻 About Me:
-- 🌱 I’m currently learning: `Advance Python`
+- 🌱 I’m currently learning: `Advanced Python`
 - 💬 Ask me about: `React`, `Django`
 - 📫 Reach me at: `simrankumaribodhgaya93@gmail.com`
 
