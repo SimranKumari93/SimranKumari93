@@ -1,3 +1,21 @@
+## Hi 👋, I'm Simran Kumari  
+I build full-stack apps and data-driven dashboards 🚀  
+
+- 🌱 Currently learning: **Go Lang**  
+- 📫 Reach me at: **yourmail@gmail.com**  
+
+### Connect with me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+
+### Languages and Tools:  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+
+
+
+
 <h1 align="center">Hey 👋, I'm Simran Kumari</h1>
 
 ### 👨‍💻 About Me:
